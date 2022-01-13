@@ -1,11 +1,13 @@
 # KQL For Security Analystis
 
 **Introduction:**
+
 This repository is meant to provide help in understanding and using Microsoft's language (KQL) for getting insights and finding valueable information regarding defenses using MS security stack. This is a humble effort to explain KQL language, and how it relates to Microsoft cloud (aka MS Azure) world. There are a number of other tutorials and sample queries that can be used as reference.
 
 My idea is to try to explain how I ended up solving the problems I am encountering during my journey as an Azure Sentinel guy, while using KQL to make Microsoft Sentinel security related use cases.
 
 **Prerequisites**:
+
 To be able to fully exploit this knowledge base, the readers are encouraged to have a basic understanding of how databases work as well as basic scripting programming skills.
 
 **The approach**:
