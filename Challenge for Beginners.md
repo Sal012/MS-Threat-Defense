@@ -18,5 +18,7 @@ Other services like Microsoft Sentinel, or defender for Endpoint, defender for M
 **AKA.MS/LADemo:**
 
 
-To have a look and feel of how this database looks like, which tables are there to play around with, I recommend going to the website aka.ms/lademo. If this is the first time you are connecting to it, you might need to create a Microsoft account to get access. this is a demo environment - hence the name LADemo (Log Analytics Demo). this database is pre populated by Microsoft and contains data for us to query and play around with. 
+To have a look and feel of how this database looks like, which tables are there to play around with, I recommend going to the website aka.ms/lademo. If this is the first time you are connecting to it, you might need to create a Microsoft account to get access. this is a demo environment - hence the name LADemo (Log Analytics Demo). this database is pre populated by Microsoft and contains data for us to query and play around with.
+
+
 
