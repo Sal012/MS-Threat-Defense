@@ -10,7 +10,8 @@ To see the list of all the security events reported to log analytics, you can ru
 **Note:** This will retrun all the security events present in the database, which will strain the database a lot. It's therefore a good practice to filter the query based on the time duration for which you need analyse the data for. 
 
 For example, if you want to see all the security events that were reported to log analytics in last 24 hours, you can use following query:
+
 <p> 
  SecurityEvent
-| where TimeGenerated > ago(7d)
+| where TimeGenerated > ago(1d)
 </p>
