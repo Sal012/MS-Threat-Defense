@@ -1,4 +1,4 @@
-**What the community is struggling with**
+**What the beginners usually struggling with**
 
 According to the survey that Microsoft carried out, people who are at the beginning stage off KQL usually struggle with the fact that they know the commands and they know the keywords to some extent but they do not know how to apply those commands and those keywords in the context that they understand the languages applicability. secondly most of the people find the available resources around learning KQL to be focused on what keywords are available, but not necessarily how to tweak or use them in the context in the most efficient way.
 
